@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scrapy/scrapy-agent-plugin/commit/d424e42a35116c108e986614b75ec7cd9cf9909e",
       "git:hexsha": "d424e42a35116c108e986614b75ec7cd9cf9909e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T02:51:06.760983+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapy/scrapy-agent-plugin/commit/5ac2bb8dcbefc5bebc8f1a69bfdb1d79f3192c7d",

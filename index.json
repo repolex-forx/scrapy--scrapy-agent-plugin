@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "scrapy-agent-plugin",
+  "versions": [
+    {
+      "commit": "d424e42a35116c108e986614b75ec7cd9cf9909e",
+      "tag": "",
+      "parsed_at": "2026-10-21T02:51:06.778976+00:00"
+    }
+  ]
+}

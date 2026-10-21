@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "scrapy",
+  "repo": "scrapy-agent-plugin",
+  "versions": [
+    {
+      "commit": "d424e42a35116c108e986614b75ec7cd9cf9909e",
+      "parsed_at": "2026-10-21T02:49:37.553173+00:00",
+      "filetree": "filetree/d424e42a35116c108e986614b75ec7cd9cf9909e.nq.gz",
+      "blobs": [
+        "blob/3a3fe69757e22530c5cf848e061acb180e69444d.nq.gz",
+        "blob/4edb626b20a6fd4de811afdd390028d70c8dda04.nq.gz",
+        "blob/e3922457465a86a60cb6d866fd494bd51583186d.nq.gz",
+        "blob/15a5a5388f84ba2942e8a0f77ceba212bf70870b.nq.gz",
+        "blob/7a79fafb4211db519aa5cb0d23c997c396f4beeb.nq.gz",
+        "blob/d797e20a37ea6684048f5fabf40efacc1626e44e.nq.gz",
+        "blob/b7e851bd219ea8dc0cbe5945bfb9b095c865b5c7.nq.gz",
+        "blob/b0eb6d8d209dae15532968124102d0708e724a3c.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/57f9c3618789a2779c9a60d1b6a7e374cdfa98a9.nq.gz",
+        "blob/1b10c012a9f6f24827be461cf7f911562ba35e1b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

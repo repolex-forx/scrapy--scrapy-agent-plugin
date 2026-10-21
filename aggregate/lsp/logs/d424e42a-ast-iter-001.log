@@ -1,0 +1,7 @@
+[2026-10-21T02:50:18Z] === AST ITERATION 1 START | repo=scrapy/scrapy-agent-plugin sha=d424e42a ===
+[2026-10-21T02:50:18Z] [iter=1] PHASE START: ast repo=scrapy/scrapy-agent-plugin sha=d424e42a
+[2026-10-21T02:50:18Z] [iter=1] Building AST aggregate chunks
+[2026-10-21T02:50:18Z] [iter=1] AST chunks built count=1 triples=0
+[2026-10-21T02:50:18Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d424e42a35116c108e986614b75ec7cd9cf9909e/.complete
+[2026-10-21T02:50:18Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-21T02:50:18Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
